@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/ftcalc/static/js/main.9f817135.js",
+    "static/js/787.4934b22f.chunk.js": "/ftcalc/static/js/787.4934b22f.chunk.js",
+    "index.html": "/ftcalc/index.html",
+    "main.9f817135.js.map": "/ftcalc/static/js/main.9f817135.js.map",
+    "787.4934b22f.chunk.js.map": "/ftcalc/static/js/787.4934b22f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9f817135.js"
+  ]
+}
