@@ -16,7 +16,7 @@
   for (var i = 0; i < reactFilesSize; i++) {
     var scriptTag = document.createElement('script');
     scriptTag.setAttribute(
-      'src', './' + reactFiles[i]
+      'src', 'https://shterev.github.io/ftcalc/' + reactFiles[i]
     );
     document.body.appendChild(scriptTag);
   }
