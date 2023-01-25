@@ -1,7 +1,7 @@
 {
   "name": "ft-calc-boilerplate",
   "version": "0.1.0",
-  "homepage": "https://shterev.github.io/ftcalc/",
+  "homepage": "https://finanztip.github.io/ftcalc/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
