@@ -16,7 +16,7 @@
   for (var i = 0; i < reactFilesSize; i++) {
     var scriptTag = document.createElement('script');
     scriptTag.setAttribute(
-      'src', 'https://shterev.github.io/ftcalc/' + reactFiles[i]
+      'src', 'https://finanztip.github.io/ft-calc-bpoilerplate' + reactFiles[i]
     );
     document.body.appendChild(scriptTag);
   }
