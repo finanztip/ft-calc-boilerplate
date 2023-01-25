@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.js": "/ft-calc-bpoilerplate/static/js/main.2707a500.js",
+    "main.js": "/ft-calc-bpoilerplate/static/js/main.3b174a48.js",
     "TestCalculator.js": "/ft-calc-bpoilerplate/static/js/TestCalculator.097934e0.chunk.js",
+    "TestRootCalculator.js": "/ft-calc-bpoilerplate/static/js/TestRootCalculator.377b1ee4.chunk.js",
     "static/js/787.4934b22f.chunk.js": "/ft-calc-bpoilerplate/static/js/787.4934b22f.chunk.js",
     "index.html": "/ft-calc-bpoilerplate/index.html",
-    "main.2707a500.js.map": "/ft-calc-bpoilerplate/static/js/main.2707a500.js.map",
+    "main.3b174a48.js.map": "/ft-calc-bpoilerplate/static/js/main.3b174a48.js.map",
     "TestCalculator.097934e0.chunk.js.map": "/ft-calc-bpoilerplate/static/js/TestCalculator.097934e0.chunk.js.map",
+    "TestRootCalculator.377b1ee4.chunk.js.map": "/ft-calc-bpoilerplate/static/js/TestRootCalculator.377b1ee4.chunk.js.map",
     "787.4934b22f.chunk.js.map": "/ft-calc-bpoilerplate/static/js/787.4934b22f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.2707a500.js"
+    "static/js/main.3b174a48.js"
   ]
 }
