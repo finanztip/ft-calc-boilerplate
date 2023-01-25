@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/ftcalc/static/js/main.9f817135.js",
-    "static/js/787.4934b22f.chunk.js": "/ftcalc/static/js/787.4934b22f.chunk.js",
-    "index.html": "/ftcalc/index.html",
-    "main.9f817135.js.map": "/ftcalc/static/js/main.9f817135.js.map",
-    "787.4934b22f.chunk.js.map": "/ftcalc/static/js/787.4934b22f.chunk.js.map"
+    "main.js": "/ft-calc-bpoilerplate/static/js/main.1fd7d33a.js",
+    "static/js/787.4934b22f.chunk.js": "/ft-calc-bpoilerplate/static/js/787.4934b22f.chunk.js",
+    "index.html": "/ft-calc-bpoilerplate/index.html",
+    "main.1fd7d33a.js.map": "/ft-calc-bpoilerplate/static/js/main.1fd7d33a.js.map",
+    "787.4934b22f.chunk.js.map": "/ft-calc-bpoilerplate/static/js/787.4934b22f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9f817135.js"
+    "static/js/main.1fd7d33a.js"
   ]
 }
