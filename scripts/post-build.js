@@ -8,6 +8,10 @@ const reactBuilderPath = './build/static/js/react-builder.js';
 const reactBuilderFile = fs.readFileSync(reactBuilderPath).toString();
 const manifest = JSON.parse(fs.readFileSync("./build/asset-manifest.json").toString());
 
+console.log('')
+console.log('Creating file react-builder...')
+console.log('')
+
 let entrypoints = Object.values(manifest.entrypoints)
   .filter($ => {
 
