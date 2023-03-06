@@ -1,5 +1,5 @@
 (function () {
-  var reactFiles = 'static/js/main.5c822f7f.js';
+  var reactFiles = 'static/js/main.54db0743.js';
   var reactFiles = reactFiles.split(',');
   var reactFilesSize = reactFiles.length;
   var isIE11 = !!window.MSInputMethodContext && !!document.documentMode;
